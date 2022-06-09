@@ -33,7 +33,7 @@
     "psalm/plugin-phpunit": "^0.15.1",
     "slim/psr7": "^1.3",
     "slim/slim": "^4.7",
-    "symfony/process": "^5.2",
+    "symfony/process": "^5.2|^6.0",
     "tuupola/slim-basic-auth": "^3.3",
     "vimeo/psalm": "^4.7"
   },
